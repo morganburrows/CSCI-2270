@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1456190909 source:/home/user/Desktop/CSCI2270/Assignment5/Assignment5.cpp
+	<iostream>
+	"Queue.h"
+
+1456190563 /home/user/Desktop/CSCI2270/Assignment5/Queue.h
+	<iostream>
+	<sstream>
+
+1456190726 source:/home/user/Desktop/CSCI2270/Assignment5/Queue.cpp
+	"Queue.h"
+

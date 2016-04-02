@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1454614001 source:/home/user/Desktop/CSCI2270/assignment 2/main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+
+1454615938 source:/home/user/Desktop/CSCI2270/assignment 2/Assignment 2.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+

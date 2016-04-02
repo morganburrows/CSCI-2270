@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1454990541 source:/home/user/Desktop/CSCI2270/Assignment3/main.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+
+1454993421 source:/home/user/Desktop/CSCI2270/Assignment3.2/main.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+
+1455734989 source:/home/user/Desktop/CSCI2270/Assignment3/CommunicationNetwork.cpp
+	"CommunicationNetwork.h"
+	<fstream>
+	<sstream>
+
+1455646521 /home/user/Desktop/CSCI2270/Assignment3/CommunicationNetwork.h
+	<iostream>
+
+1455731493 source:/home/user/Desktop/CSCI2270/Assignment3/Assignment3.cpp
+	"CommunicationNetwork.h"
+
